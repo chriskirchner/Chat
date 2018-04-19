@@ -5,7 +5,7 @@
 ## Overview
 This multi-lingual chat application uses a c++ client to communicate with a multi-threaded python chat server
 
-# Link to Assignment
+## Link to Assignment
 
 [Chat](http://159.89.136.195:3000/a/21)
 
